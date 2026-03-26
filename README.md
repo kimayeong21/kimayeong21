@@ -14,23 +14,41 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 
 ---
 
-# 🚀 Featured Project (캡스톤 느낌 강조)
+# 🚀 Featured Projects
 
 ## 💧 Smart Water Quality Monitoring System
+> OpenCV 기반 물 색상 분석 + Arduino LED 제어 시스템  
+- 실시간 영상 기반 수질 상태 분석  
+- 색상 분류 및 LED 시각화 시스템 구현  
 
-> OpenCV 기반 물 색상 분석 + Arduino LED 제어 시스템
+👉 [프로젝트 바로가기](https://github.com/kimayeong21/iot-water-monitoring-system)
 
-- HSV 색상 필터링 기반 수질 상태 분석
-- OpenCV 영상 처리 + 시리얼 통신
-- 실시간 상태 판단 및 시각화
+---
 
-👉 **핵심 기능**
-오염(갈색) → RED BLINK
-녹조(초록) → BLUE BLINK
-정상(파랑) → GREEN
+## 🎬 Movie Recommendation System
+> 사용자 선호 기반 영화 추천 프로그램  
+- 장르 및 평점을 기반으로 추천 기능 구현  
+- 로그인 및 관리자 기능 포함  
 
+👉 [프로젝트 바로가기](https://github.com/kimayeong21/movie-system-c)
 
-👉 [프로젝트 바로가기](https://github.com/kimayeong21/your-repo)
+---
+
+## 🚌 Smart Schedule & Bus Management
+> 일정과 버스 정보를 통합한 웹 서비스  
+- 일정 CRUD 기능 구현  
+- 버스 정보 조회 및 사용자 중심 UI 구성  
+
+👉 [프로젝트 바로가기](https://github.com/kimayeong21/smart-schedule-bus-system)
+
+---
+
+## 📊 Student Grade Management System
+> 성적 관리 및 분석 프로그램 (Java 기반)  
+- 성적 입력 / 수정 / 평균 계산 기능 구현  
+- 사용자 데이터 관리 시스템 구성  
+
+👉 [프로젝트 바로가기](https://github.com/kimayeong21/student-grade-management-system)
 
 ---
 
@@ -38,10 +56,10 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 
 | 프로젝트 | 설명 | 링크 |
 |--------|------|------|
-| 🎬 Movie Recommendation System | 사용자 선호 기반 영화 추천 시스템 | [바로가기](https://github.com/kimayeong21/movie-recommendation-system) |
-| 🚌 Smart Schedule & Bus Management | 일정 + 버스 정보 통합 웹 서비스 | [바로가기](https://github.com/kimayeong21/schedule-bus-system) |
+| 🎬 Movie Recommendation System | 사용자 선호 기반 영화 추천 시스템 | [바로가기](https://github.com/kimayeong21/movie-system-c) |
+| 🚌 Smart Schedule & Bus Management | 일정 + 버스 정보 통합 웹 서비스 | [바로가기](https://github.com/kimayeong21/smart-schedule-bus-system) |
 | 📊 Student Grade Management | 성적 관리 프로그램 (Java 기반) | [바로가기](https://github.com/kimayeong21/student-grade-management-system) |
-| 💧 Water Quality Monitoring | OpenCV + Arduino 기반 수질 분석 시스템 | [바로가기](https://github.com/kimayeong21/water-monitoring-system) |
+| 💧 Water Quality Monitoring | OpenCV + Arduino 기반 수질 분석 시스템 | [바로가기](https://github.com/kimayeong21/iot-water-monitoring-system) |
 
 ---
 
@@ -83,10 +101,6 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 ---
 
 ## 📫 Contact
-- 📧 Email: cngot0000@naver.com
+- 📧 Email: cngot0000@naver.com  
 - 💻 GitHub: https://github.com/kimayeong21  
 
----
-
-## 📝 Blog
-- 블로그 링크 추가 가능
