@@ -78,15 +78,16 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
-### 🧰 Libraries & Tools
+### 🧰 Libraries & Frameworks
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
@@ -99,3 +100,7 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 - 📧 Email: cngot0000@naver.com  
 - 💻 GitHub: https://github.com/kimayeong21  
 
+---
+
+## 📝 Blog
+- 블로그 링크 추가 가능
