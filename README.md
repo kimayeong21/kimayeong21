@@ -68,11 +68,6 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 
 ---
 
-## 🏆 Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인아이디)](https://solved.ac/본인아이디)
-
----
-
 ## 🛠 Tech Stacks
 
 ### 💻 Languages
