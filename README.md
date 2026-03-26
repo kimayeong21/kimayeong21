@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kim Ayeong! 
+# 👋 Hello, I'm 김아영! 
 
 ### 🚀 "Connecting the World through Software & Hardware"
 컴퓨터공학을 전공하며, **IoT 기반의 실시간 모니터링 시스템**과 **사용자 중심의 풀스택 서비스**를 개발하고 있습니다. 
