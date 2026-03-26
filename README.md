@@ -1,5 +1,9 @@
 # 👋 김아영 (Ayeong Kim)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=35&duration=3000&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=AI+Developer;Data+%26+System+Engineer;IoT+%26+Smart+System"/>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -10,14 +14,34 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 
 ---
 
+# 🚀 Featured Project (캡스톤 느낌 강조)
+
+## 💧 Smart Water Quality Monitoring System
+
+> OpenCV 기반 물 색상 분석 + Arduino LED 제어 시스템
+
+- HSV 색상 필터링 기반 수질 상태 분석
+- OpenCV 영상 처리 + 시리얼 통신
+- 실시간 상태 판단 및 시각화
+
+👉 **핵심 기능**
+오염(갈색) → RED BLINK
+녹조(초록) → BLUE BLINK
+정상(파랑) → GREEN
+
+
+👉 [프로젝트 바로가기](https://github.com/kimayeong21/your-repo)
+
+---
+
 ## 📂 Projects
 
-| 프로젝트 | 설명 | 기술 스택 |
-|--------|------|----------|
-| 🎬 Movie Recommendation System | 사용자 선호(장르, 평점)를 기반으로 영화 추천을 제공하는 시스템. 로그인 및 관리자 기능 구현 | C |
-| 🚌 Smart Schedule & Bus Management | 일정 관리와 버스 정보를 통합한 웹 서비스. CRUD 기반 기능 구현 | Python, Flask, MySQL |
-| 📊 Student Grade Management | 학생 성적 입력, 수정, 평균 계산 기능을 제공하는 성적 관리 프로그램 | Java |
-| 💧 Smart Water Quality Monitoring | OpenCV 기반 물 색상 분석을 통해 수질 상태를 판단하고 시각화하는 시스템 | Python, OpenCV, Arduino |
+| 프로젝트 | 설명 | 링크 |
+|--------|------|------|
+| 🎬 Movie Recommendation System | 사용자 선호 기반 영화 추천 시스템 | [바로가기](https://github.com/kimayeong21/movie-recommendation-system) |
+| 🚌 Smart Schedule & Bus Management | 일정 + 버스 정보 통합 웹 서비스 | [바로가기](https://github.com/kimayeong21/schedule-bus-system) |
+| 📊 Student Grade Management | 성적 관리 프로그램 (Java 기반) | [바로가기](https://github.com/kimayeong21/student-grade-management-system) |
+| 💧 Water Quality Monitoring | OpenCV + Arduino 기반 수질 분석 시스템 | [바로가기](https://github.com/kimayeong21/water-monitoring-system) |
 
 ---
 
@@ -48,7 +72,7 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-### ⚙️ Development Tools
+### ⚙️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -59,12 +83,10 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 ---
 
 ## 📫 Contact
-
 - 📧 Email: cngot0000@naver.com
 - 💻 GitHub: https://github.com/kimayeong21  
 
 ---
 
 ## 📝 Blog
-
-- Tistory / Velog / Notion 링크 추가 가능
+- 블로그 링크 추가 가능
