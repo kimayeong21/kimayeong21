@@ -100,7 +100,4 @@ AI 및 데이터 기반 시스템 개발에 관심을 갖고 공부하고 있는
 - 📧 Email: cngot0000@naver.com  
 - 💻 GitHub: https://github.com/kimayeong21  
 
----
 
-## 📝 Blog
-- 블로그 링크 추가 가능
