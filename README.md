@@ -13,23 +13,23 @@
     </td>
     <td>
 
-컴퓨터공학을 전공하며 <strong>AI, 데이터, IoT, 웹 서비스</strong>를 중심으로 프로젝트를 만들어가고 있습니다.
+컴퓨터공학을 전공하며 <strong>백엔드 웹 개발, 프론트엔드 개발, 데이터 기반 서비스</strong>를 중심으로 프로젝트를 만들어가고 있습니다.
 
 생활 속 문제를 기술로 해결하는 데 관심이 있으며, 사용자가 실제로 이해하고 사용할 수 있는 시스템을 구현하는 것을 목표로 합니다.
 
 - 서원대학교 IT문화예술대학 컴퓨터공학과 졸업예정 (2027.02)
 - 융합 로보테크 AI 자율주행로봇 개발자 과정 수료 예정 (2026.07)
-- 관심 분야: AI 서비스, 데이터 기반 시스템, IoT, 웹 백엔드, 사용자 중심 서비스
+- 관심 분야: 백엔드 웹 개발, 프론트엔드 개발, 데이터 기반 서비스, 사용자 중심 웹 서비스
 
   </td>
   </tr>
 </table>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Service-2F80ED?style=flat-square">
-  <img src="https://img.shields.io/badge/Data%20System-56CCF2?style=flat-square">
-  <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square">
-  <img src="https://img.shields.io/badge/Flask%20Backend-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Backend%20Web-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Frontend%20Web-2F80ED?style=flat-square">
+  <img src="https://img.shields.io/badge/Data%20Service-56CCF2?style=flat-square">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square">
   <img src="https://img.shields.io/badge/User%20Centered-7DB9FF?style=flat-square">
 </p>
 
