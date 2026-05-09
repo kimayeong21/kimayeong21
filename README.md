@@ -19,18 +19,17 @@
 
 - 서원대학교 IT문화예술대학 컴퓨터공학과 졸업예정 (2027.02)
 - 융합 로보테크 AI 자율주행로봇 개발자 과정 수료 예정 (2026.07)
-- 관심 분야: 백엔드 웹 개발, 프론트엔드 개발, 데이터 기반 서비스, 사용자 중심 웹 서비스
+- 관심 분야: 백엔드, 웹 개발, 소프트웨어 개발, 프론트엔드
 
   </td>
   </tr>
 </table>
 
 <p>
-  <img src="https://img.shields.io/badge/Backend%20Web-111827?style=flat-square">
-  <img src="https://img.shields.io/badge/Frontend%20Web-2F80ED?style=flat-square">
-  <img src="https://img.shields.io/badge/Data%20Service-56CCF2?style=flat-square">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/User%20Centered-7DB9FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Backend-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Web%20Development-56CCF2?style=flat-square">
+  <img src="https://img.shields.io/badge/Software%20Development-7DB9FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Frontend-2F80ED?style=flat-square">
 </p>
 
 ---
