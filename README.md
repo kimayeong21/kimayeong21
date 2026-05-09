@@ -25,10 +25,6 @@
   </tr>
 </table>
 
-<p>
-  <strong>Interest</strong> · Backend · Frontend · Web Development · Software Development
-</p>
-
 ---
 
 ## Projects
