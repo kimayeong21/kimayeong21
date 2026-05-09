@@ -26,10 +26,7 @@
 </table>
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-111827?style=flat-square">
-  <img src="https://img.shields.io/badge/Web%20Development-56CCF2?style=flat-square">
-  <img src="https://img.shields.io/badge/Software%20Development-7DB9FF?style=flat-square">
-  <img src="https://img.shields.io/badge/Frontend-2F80ED?style=flat-square">
+  <strong>Interest</strong> · Backend · Frontend · Web Development · Software Development
 </p>
 
 ---
@@ -69,17 +66,6 @@ Documentation
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimayeong21&custom_title=Ayeong's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=1F2937&line=2F80ED&point=7DB9FF&area=true&area_color=CFE8FF&title_color=2F80ED&grid_color=E5E7EB" alt="Ayeong's GitHub Activity Graph" width="100%">
 </div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimayeong21&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED" height="155" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimayeong21&layout=compact&hide_border=true&title_color=2F80ED" height="155" alt="Top Languages">
-</div>
-
----
 
 ## Tech Stacks
 
