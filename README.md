@@ -30,8 +30,8 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 | --- | --- | --- |
-| [Digital Legacy Management Service](https://github.com/kimayeong21/DigitalLegacy_ManagementService) | 사용자의 디지털 자산, 추억, 계정 정보를 관리하는 디지털 유산 관리 웹 서비스 | Flask, SQLite, JavaScript, HTML/CSS |
-| [Smart Schedule Bus System](https://github.com/kimayeong21/smart-schedule-bus-system) | 개인 일정과 청주시 버스 정보를 연결해 이동 계획을 돕는 생활 편의 서비스 | Python, Flask, SQLite, Public API |
+| [Digital Legacy Management Service](https://github.com/kimayeong21/DigitalLegacy_ManagementService) | 사용자의 디지털 자산, 추억, 계정 정보를 관리하는 디지털 유산 관리 웹 서비스 | Flask, MySQL, JavaScript, HTML/CSS |
+| [Smart Schedule Bus System](https://github.com/kimayeong21/smart-schedule-bus-system) | 개인 일정과 청주시 버스 정보를 연결해 이동 계획을 돕는 생활 편의 서비스 | Python, Flask, MySQL, Public API |
 | [Smart Water Quality Monitoring System](https://github.com/kimayeong21/iot-water-monitoring-system) | 웹캠 영상 분석과 Arduino RGB LED를 활용한 수질 상태 모니터링 시스템 | Python, OpenCV, Arduino |
 | [R2 Robotech AI Projects](https://github.com/kimayeong21/R2-cleaned) | 로보테크 AI 과정에서 진행한 Python, 데이터 분석, TCP 통신, 로봇 관제, Arduino 실습 프로젝트 모음 | Python, PyQt5, TCP, ROS, Arduino |
 | [Movie Recommendation System](https://github.com/kimayeong21/movie-system-c) | 회원, 검색, 평점, 관리자 기능을 포함한 C 언어 기반 영화 관리 프로그램 | C, CSV File I/O |
@@ -91,7 +91,6 @@ Documentation
 ### Database & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
