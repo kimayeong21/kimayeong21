@@ -34,6 +34,8 @@
 | [Smart Schedule Bus System](https://github.com/kimayeong21/smart-schedule-bus-system) | 개인 일정과 청주시 버스 정보를 연결해 이동 계획을 돕는 생활 편의 서비스 | Python, Flask, MySQL, Public API |
 | [Smart Water Quality Monitoring System](https://github.com/kimayeong21/iot-water-monitoring-system) | 웹캠 영상 분석과 Arduino RGB LED를 활용한 수질 상태 모니터링 시스템 | Python, OpenCV, Arduino |
 | [R2 Robotech AI Projects](https://github.com/kimayeong21/R2-cleaned) | 로보테크 AI 과정에서 진행한 Python, 데이터 분석, TCP 통신, 로봇 관제, Arduino 실습 프로젝트 모음 | Python, PyQt5, TCP, ROS, Arduino |
+| [Arduino IoT Vehicle Safety Module](https://github.com/kimayeong21/Arduino-1tem) | 로보테크 AI 과정에서 진행한 Arduino 기반 차량 보조 안전 모듈 프로젝트 | Arduino, Python, PyQt5, UDP, HTTP |
+| [LiDAR Mock Autonomous Driving System](https://github.com/kimayeong21/lidar_project) | 로보테크 AI 과정에서 진행한 ROS2 기반 LiDAR 모의 자율주행 및 데이터 저장 프로젝트 | Python, ROS2, rosbridge, MySQL |
 | [Movie Recommendation System](https://github.com/kimayeong21/movie-system-c) | 회원, 검색, 평점, 관리자 기능을 포함한 C 언어 기반 영화 관리 프로그램 | C, CSV File I/O |
 | [Student Grade Management System](https://github.com/kimayeong21/student-grade-management-system) | 성적 데이터를 학기별로 확인하고 검색·수정·삭제하는 Java Swing GUI 프로그램 | Java, Swing, TXT File I/O |
 
