@@ -123,6 +123,14 @@
   </tr>
   <tr>
     <td>
+      <a href="mailto:cngot00000@gamil.com">
+        <img src="https://img.shields.io/badge/Google%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+    <td>cngot00000@gamil.com</td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/kimayeong21">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
