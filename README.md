@@ -49,14 +49,6 @@
 | Web Service | 사용자 기능, 데이터베이스 연동, 생활 편의형 웹 서비스 구현 | 디지털 유산 관리, 버스 일정 서비스 |
 | Documentation | 프로젝트 구조, 실행 방법, 개선 방향을 README로 정리 | GitHub 프로젝트 문서화 |
 
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimayeong21&custom_title=Ayeong's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=1F2937&line=2F80ED&point=7DB9FF&area=true&area_color=CFE8FF&title_color=2F80ED&grid_color=E5E7EB" alt="Ayeong's GitHub Activity Graph" width="100%">
-</div>
-
 ## Tech Stacks
 
 <table>
