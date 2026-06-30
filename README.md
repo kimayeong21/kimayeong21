@@ -42,19 +42,12 @@
 
 ## Focus
 
-```text
-AI / Data
-  └─ 데이터를 활용해 문제를 분석하고 서비스 흐름으로 연결
-
-IoT / Embedded
-  └─ 카메라, Arduino, 시리얼 통신을 활용한 실시간 모니터링 시스템 구현
-
-Web Service
-  └─ Flask 기반 웹 서비스와 사용자 관리, DB 연동 기능 구현
-
-Documentation
-  └─ 프로젝트 구조, 실행 방법, 개선 방향을 README로 명확하게 정리
-```
+| 분야 | 다루는 내용 | 관련 프로젝트 |
+| --- | --- | --- |
+| AI / Data | 데이터를 수집·가공하고 분석 결과를 서비스 흐름에 연결 | LiDAR 데이터셋 변환, 로보테크 AI 실습 |
+| IoT / Embedded | 센서, Arduino, 카메라, 통신 모듈을 활용한 실시간 제어 | 수질 모니터링, 로봇·센서 실습 |
+| Web Service | 사용자 기능, 데이터베이스 연동, 생활 편의형 웹 서비스 구현 | 디지털 유산 관리, 버스 일정 서비스 |
+| Documentation | 프로젝트 구조, 실행 방법, 개선 방향을 README로 정리 | GitHub 프로젝트 문서화 |
 
 ---
 
@@ -66,33 +59,49 @@ Documentation
 
 ## Tech Stacks
 
-### Languages
+### Python
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</div>
-
-<br/>
-
-### Frameworks & Libraries
-
-<div>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Requests-2F80ED?style=for-the-badge">
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge">
 </div>
 
 <br/>
 
-### Database & Tools
+### Java
 
 <div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+<br/>
+
+### C / C++
+
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</div>
+
+<br/>
+
+### Web / Database
+
+<div>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+<br/>
+
+### Embedded / Tools
+
+<div>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
