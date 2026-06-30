@@ -59,54 +59,50 @@
 
 ## Tech Stacks
 
-### Python
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Requests-2F80ED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge">
-</div>
-
-<br/>
-
-### Java
-
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-
-<br/>
-
-### C / C++
-
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</div>
-
-<br/>
-
-### Web / Database
-
-<div>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-<br/>
-
-### Embedded / Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Python</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/Requests-2F80ED?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge">
+    </td>
+    <td width="50%" valign="top">
+      <strong>Java</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>C / C++</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <strong>Web / Database</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>Embedded / Tools</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ---
 
