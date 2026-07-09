@@ -54,10 +54,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Python</strong>
+      <strong>Python / Backend</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/Requests-2F80ED?style=for-the-badge">
       <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge">
