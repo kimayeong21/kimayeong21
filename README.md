@@ -26,11 +26,20 @@
 
 ---
 
+## Portfolio
+
+<a href="https://kimayeong21.github.io/DNights.github.io/">
+  <img src="https://img.shields.io/badge/GitHub%20Pages%20Portfolio-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지입니다.
+
+---
+
 ## Projects
 
 | 프로젝트 | 설명 | 기술 스택 |
 | --- | --- | --- |
-| [GitHub Pages Portfolio](https://github.com/kimayeong21/DNights.github.io) | 자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 웹 페이지 | HTML/CSS, JavaScript, GitHub Pages |
 | [Digital Legacy Management Service](https://github.com/kimayeong21/DigitalLegacy_ManagementService) | 사용자의 디지털 자산, 추억, 계정 정보를 관리하는 디지털 유산 관리 웹 서비스 | Flask, MySQL, JavaScript, HTML/CSS |
 | [Smart Schedule Bus System](https://github.com/kimayeong21/smart-schedule-bus-system) | 개인 일정과 청주시 버스 정보를 연결해 이동 계획을 돕는 생활 편의 서비스 | Python, Flask, MySQL, Public API |
 | [Smart Water Quality Monitoring System](https://github.com/kimayeong21/iot-water-monitoring-system) | 웹캠 영상 분석과 Arduino RGB LED를 활용한 수질 상태 모니터링 시스템 | Python, OpenCV, Arduino |
