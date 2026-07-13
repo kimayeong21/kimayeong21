@@ -92,10 +92,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>C / C++</strong>
+      <strong>C</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
     </td>
     <td width="50%" valign="top">
       <strong>Web / Database</strong>
