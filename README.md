@@ -28,10 +28,9 @@
 
 ## Portfolio Site
 
-| 구분 | 내용 |
-| --- | --- |
-| Portfolio | 자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 정리한 개인 포트폴리오 페이지 |
-| Link | [kimayeong21.github.io/DNights.github.io](https://kimayeong21.github.io/DNights.github.io/) |
+| 구분 | 설명 | 링크 |
+| --- | --- | --- |
+| GitHub Pages Portfolio | 자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지 | [바로가기](https://kimayeong21.github.io/DNights.github.io/) |
 
 ---
 
