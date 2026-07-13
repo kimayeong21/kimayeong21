@@ -26,13 +26,12 @@
 
 ---
 
-## Portfolio
+## Portfolio Site
 
-<a href="https://kimayeong21.github.io/DNights.github.io/">
-  <img src="https://img.shields.io/badge/GitHub%20Pages%20Portfolio-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
-
-자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지입니다.
+| 구분 | 내용 |
+| --- | --- |
+| Portfolio | 자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 정리한 개인 포트폴리오 페이지 |
+| Link | [kimayeong21.github.io/DNights.github.io](https://kimayeong21.github.io/DNights.github.io/) |
 
 ---
 
