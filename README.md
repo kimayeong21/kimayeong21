@@ -26,23 +26,6 @@
 
 ---
 
-## Portfolio Site
-
-<table>
-  <tr>
-    <th width="24%">구분</th>
-    <th width="48%">설명</th>
-    <th width="28%">링크</th>
-  </tr>
-  <tr>
-    <td><strong>GitHub Pages Portfolio</strong></td>
-    <td>자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지</td>
-    <td><a href="https://kimayeong21.github.io/DNights.github.io/">kimayeong21.github.io/DNights.github.io</a></td>
-  </tr>
-</table>
-
----
-
 ## Projects
 
 | 프로젝트 | 설명 | 기술 스택 |
@@ -144,13 +127,23 @@
     </td>
     <td>github.com/kimayeong21</td>
   </tr>
+</table>
+
+---
+
+## Portfolio
+
+<table>
   <tr>
-    <td>
+    <td width="220">
       <a href="https://kimayeong21.github.io/DNights.github.io/">
-        <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
+        <img src="https://img.shields.io/badge/Portfolio%20Site-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
       </a>
     </td>
-    <td>kimayeong21.github.io/DNights.github.io</td>
+    <td>
+      자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지입니다.<br/>
+      <a href="https://kimayeong21.github.io/DNights.github.io/">https://kimayeong21.github.io/DNights.github.io/</a>
+    </td>
   </tr>
 </table>
 
