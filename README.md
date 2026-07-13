@@ -49,6 +49,26 @@
 | Web Service | 사용자 기능, 데이터베이스 연동, 생활 편의형 웹 서비스 구현 | 디지털 유산 관리, 버스 일정 서비스 |
 | Documentation | 프로젝트 구조, 실행 방법, 개선 방향을 README로 정리 | GitHub 프로젝트 문서화 |
 
+---
+
+## Portfolio
+
+<table>
+  <tr>
+    <td width="220">
+      <a href="https://kimayeong21.github.io/DNights.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio%20Site-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
+      </a>
+    </td>
+    <td>
+      자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지입니다.<br/>
+      <a href="https://kimayeong21.github.io/DNights.github.io/">https://kimayeong21.github.io/DNights.github.io/</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Stacks
 
 <table>
@@ -126,24 +146,6 @@
       </a>
     </td>
     <td>github.com/kimayeong21</td>
-  </tr>
-</table>
-
----
-
-## Portfolio
-
-<table>
-  <tr>
-    <td width="220">
-      <a href="https://kimayeong21.github.io/DNights.github.io/">
-        <img src="https://img.shields.io/badge/Portfolio%20Site-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
-      </a>
-    </td>
-    <td>
-      자기소개, 프로젝트 상세 설명, Focus, Tech Stacks, Contact를 한 화면에서 확인할 수 있는 개인 포트폴리오 페이지입니다.<br/>
-      <a href="https://kimayeong21.github.io/DNights.github.io/">https://kimayeong21.github.io/DNights.github.io/</a>
-    </td>
   </tr>
 </table>
 
