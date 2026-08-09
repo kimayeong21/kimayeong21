@@ -147,6 +147,16 @@
     </td>
     <td>github.com/kimayeong21</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://kimayeong21.github.io/DNights.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio%20Site-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://kimayeong21.github.io/DNights.github.io/">https://kimayeong21.github.io/DNights.github.io/</a>
+    </td>
+  </tr>
 </table>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7DB9FF&height=90&section=footer)
