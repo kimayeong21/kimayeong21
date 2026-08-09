@@ -153,9 +153,7 @@
         <img src="https://img.shields.io/badge/Portfolio%20Site-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
       </a>
     </td>
-    <td>
-      <a href="https://kimayeong21.github.io/DNights.github.io/">https://kimayeong21.github.io/DNights.github.io/</a>
-    </td>
+    <td>https:&#47;&#47;kimayeong21.github.io&#47;DNights.github.io&#47;</td>
   </tr>
 </table>
 
