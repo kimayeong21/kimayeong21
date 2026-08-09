@@ -153,7 +153,7 @@
         <img src="https://img.shields.io/badge/Portfolio%20Site-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white">
       </a>
     </td>
-    <td>개인 포트폴리오</td>
+    <td>kimayeong21&#46;github&#46;io</td>
   </tr>
 </table>
 
