@@ -30,7 +30,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 | --- | --- | --- |
-| [Digital Legacy Management Service](https://github.com/kimayeong21/DigitalLegacy_ManagementService) | 사용자의 디지털 자산, 추억, 계정 정보를 관리하는 디지털 유산 관리 웹 서비스 | Flask, MySQL, JavaScript, HTML/CSS |
+| [Digital Legacy Management Service](https://github.com/kimayeong21/DigitalLegacy_ManagementService) | 사용자의 디지털 자산, 추억, 계정 정보를 관리하는 디지털 유산 관리 웹 서비스(졸업작품으로 할 예정이기 때문에 업그레이드 예정) | Flask, MySQL, JavaScript, HTML/CSS |
 | [Smart Schedule Bus System](https://github.com/kimayeong21/smart-schedule-bus-system) | 개인 일정과 청주시 버스 정보를 연결해 이동 계획을 돕는 생활 편의 서비스 | Python, Flask, MySQL, Public API |
 | [Smart Water Quality Monitoring System](https://github.com/kimayeong21/iot-water-monitoring-system) | 웹캠 영상 분석과 Arduino RGB LED를 활용한 수질 상태 모니터링 시스템 | Python, OpenCV, Arduino |
 | [R2 Robotech AI Projects](https://github.com/kimayeong21/R2-cleaned) | 로보테크 AI 과정에서 진행한 Python, 데이터 분석, TCP 통신, 로봇 관제, Arduino 실습 프로젝트 모음 | Python, PyQt5, TCP, ROS, Arduino |
